@@ -1,0 +1,373 @@
+{
+  "basics": {
+    "name": "Anthony Vadala",
+    "label": "IT Generalist with a focus on Security Analysis and Systems Administration",
+    "image": "https://anthonyvadala.me/images/profile_picture.webp",
+    "email": "personal@anthonyvadala.me",
+    "url": "https://anthonyvadala.me",
+    "summary": "",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Greater Harrisburg Area",
+      "countryCode": "USA",
+      "region": "PA"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "anthonyvadala",
+        "url": "https://github.com/AnthonyVadala"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "anthonyvadala",
+        "url": "https://www.linkedin.com/in/anthonyvadala/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "SPX FLOW, Inc.",
+      "position": "Technical Support Specialist",
+      "location": "Palmyra, PA",
+      "url": "https://www.spxflow.com/",
+      "startDate": "2024-09-01",
+      "highlights": []
+    },
+    {
+      "name": "Anthony's Computer Consulting",
+      "position": "Owner",
+      "location": "Remote",
+      "startDate": "2009-07-01",
+      "highlights": [
+        "Provide IT consulting services to give objective advice and recommendations",
+        "Web Consultant for Mane Line Hair Design and The Forest City News",
+        "Utilize my background from prior helpdesk positions to solve customer technical issues",
+        "Use my knowledge of the VHS and 8mm formats to repair and digitize them for customers"
+      ]
+    },
+    {
+      "name": "The Forest City News",
+      "position": "Web Consultant",
+      "location": "Forest City, PA",
+      "url": "https://forestcitynews.com",
+      "startDate": "2014-07-01",
+      "highlights": [
+        "Coordinated the redesign of their online presence and currently maintain their website",
+        "Utilized WordPress allowing the ability to publish current and archived news online"
+      ]
+    },
+    {
+      "name": "Mane Line Hair Design",
+      "position": "Web Consultant",
+      "location": "Carbondale, PA",
+      "url": "https://manelinehairdesign.com/",
+      "startDate": "2013-08-01",
+      "highlights": [
+        "Developed a web presence, utilizing BootStrap and social media, to attract potential clients",
+        "Maintain the web presence on an ongoing basis"
+      ]
+    },
+    {
+      "name": "NTT Security",
+      "position": "Senior Associate, Information Security Analyst",
+      "location": "Remote",
+      "url": "https://www.security.ntt/",
+      "startDate": "2022-10-01",
+      "endDate": "2024-03-01",
+      "highlights": [
+        "Utilized various SIEM technologies such as Splunk, QRadar, Microsoft Sentinel and LogRhythm to investigate security alerts",
+        "Worked with internal implementation teams to tune siem configurations to make alerts to be more informative and useful to supported clients",
+        "Contacted clients affected by high priority security incidents to give an overview and recommendations on how to precede",
+        "Implemented automation of certain repetitive tasks using Microsoft Power Automate- Utilized various SIEM technologies such as Splunk, QRadar, Microsoft Sentinel and LogRhythm to investigate security alerts",
+        "Worked with internal implementation teams to tune siem configurations to make alerts to be more informative and useful to supported clients",
+        "Contacted clients affected by high priority security incidents to give an overview and recommendations on how to precede",
+        "Implemented automation of certain repetitive tasks using Microsoft Power Automate"
+      ]
+    },
+    {
+      "name": "Byler Holdings, LLC.",
+      "position": "IT Coordinator",
+      "location": "Lebanon, PA",
+      "url": "https://bylerholdings.com",
+      "startDate": "2022-06-01",
+      "endDate": "2022-08-01",
+      "highlights": [
+        "Oversaw internal IT projects including implementation of several SharePoint portals and automation of various tasks using Microsoft Power Automate",
+        "Managed deployments of IT assets and acted as the point of contact for issues across the various Byler Holdings companies",
+        "Implemented various security measures such as Microsoft MFA",
+        "Helped onboard and train new employees with the various software that the company uses"
+      ]
+    },
+    {
+      "name": "Adams Cable Service",
+      "position": "Systems Administrator",
+      "location": "Carbondale, PA",
+      "url": "https://adamscable.com",
+      "startDate": "2017-05-01",
+      "endDate": "2021-05-01",
+      "highlights": [
+        "Redesigned and managed the public facing Adams Cable website, webmail, and community cable channel",
+        "Managed and deployed internal computer systems, dot matrix and laser printers, and servers",
+        "Handled internal helpdesk issues",
+        "Wrote support articles for customer use on the customer support portal",
+        "Documented internal processes for CSR use on the internal company portal",
+        "Integrated Nomorobo into customer VOIP service",
+        "Implemented new customer support systems that include a ticketing system and website livechat",
+        "Launched and managed an internal employee portal to centralize information for company use",
+        "When needed, filled in for the Tier I Helpdesk (Internet Department) role"
+      ]
+    },
+    {
+      "name": "Adams Cable Service",
+      "position": "Tier I Helpdesk (Internet Department)",
+      "location": "Carbondale, PA",
+      "url": "https://adamscable.com",
+      "startDate": "2017-02-01",
+      "endDate": "2017-05-01",
+      "highlights": [
+        "Provided technical assistance for internet and phone related issues",
+        "Supported field technicians over the phone to resolve customer issues",
+        "Handled customer accounts and over the phone payments"
+      ]
+    },
+    {
+      "name": "Gentex Corporation",
+      "position": "Information Technology Intern",
+      "location": "Carbondale, PA",
+      "url": "https://www.gentex.com/",
+      "startDate": "2016-06-01",
+      "endDate": "2016-09-01",
+      "highlights": [
+        "Provided customer service by handling employee's technical questions, issues, and problems",
+        "Supported and maintained existing computer systems and network infrastructure",
+        "Created four Sisense business dashboards, utilizing SQL and Excel, for internal department business decisions"
+      ]
+    },
+    {
+      "name": "Pennsylvania College of Technology",
+      "position": "Help Desk Technical Support Analyst",
+      "location": "Williamsport, PA ",
+      "url": "https://www.pct.edu/",
+      "startDate": "2015-01-01",
+      "endDate": "2016-05-01",
+      "highlights": [
+        "Provided a first point of contact for students and staff seeking technical assistance for campus technology issues",
+        "Utilized knowledge of computer systems to solve both hardware and software issues for students and staff",
+        "Updated the helpdesk procedures to reflect the new versions of the helpdesk tools"
+      ]
+    },
+    {
+      "name": "Pennsylvania College of Technology",
+      "position": "Help Desk Computer Lab Assistant",
+      "location": "Williamsport, PA ",
+      "url": "https://www.pct.edu/",
+      "startDate": "2014-08-01",
+      "endDate": "2014-12-01",
+      "highlights": [
+        "Provided a point of contact for students, faculty, and staff in the instructional and open computer labs seeking assistance",
+        "Maintained the computers and printers in the instructional and open computer labs"
+      ]
+    },
+    {
+      "name": "Forest City Regional High School",
+      "position": "Unpaid Internship",
+      "location": "Forest City, PA ",
+      "url": "https://forestcitynews.com",
+      "startDate": "2015-07-01",
+      "endDate": "2015-08-01",
+      "highlights": [
+        "Utilized knowledge of virtualization to assist in upgrading the school's servers to the latest versions of SQL and VSphere",
+        "Migrated the school’s local Exchange server to G Suite for Education",
+        "Created and deployed Windows images for computer labs and student laptops",
+        "Documented ports on the network switches and patch panels"
+      ]
+    },
+    {
+      "name": "Career Technology Center of Lackawanna County",
+      "position": "IT Technician",
+      "location": "Scranton, PA ",
+      "url": "https://ctclc.edu/",
+      "startDate": "2015-06-01",
+      "endDate": "2015-07-01",
+      "highlights": [
+        "Assisted in the network overhaul by running new ethernet cable, configuring access points, and installing network printers",
+        "Created and deployed Windows images for school workstations",
+        "Setup and calibrated over-head projectors in classrooms"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Pennsylvania College of Technology",
+      "area": "Information Technology: Network Specialist Concentration",
+      "studyType": "Bachelor's Degree",
+      "startDate": "2012",
+      "endDate": "2016",
+      "gpa": "",
+      "courses": []
+      
+    },
+    {
+      "institution": "Pennsylvania College of Technology",
+      "area": "Associate Web Design Specialist",
+      "studyType": "Competency Credential",
+      "startDate": "2012",
+      "endDate": "2016",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "Pennsylvania College of Technology",
+      "area": "National Security Telecommunications and Systems Security",
+      "studyType": "Competency Credential",
+      "startDate": "2012",
+      "endDate": "2016",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Soft Skills",
+      "level": "",
+      "keywords": [
+        "Analysis",
+        "Collaboration",
+        "Communication",
+        "Experimentation",
+        "Problem Solving",
+        "Public Speaking",
+        "Reliability",
+        "Time Management"
+      ]
+    },
+    {
+      "name": "Technical Skills",
+      "level": "",
+      "keywords": [
+        "Cloud Administration",
+        "Computer Hardware",
+        "Computer Repair",
+        "Customer Service",
+        "Cyber Threat Hunting (CTH)",
+        "Hardware Virtualization",
+        "IT Operations",
+        "Large Enterprise",
+        "Log Analysis",
+        "Machine Learning",
+        "Networking",
+        "Risk Assessment",
+        "Security Information and Event Management (SIEM)",
+        "Task Automation",
+        "Technical Support",
+        "Troubleshooting",
+        "Web Design"
+      ]
+    },
+    {
+      "name": "Automation",
+      "level": "",
+      "keywords": [
+        "Ansible",
+        "Automator",
+        "Chocolatey",
+        "Homebrew",
+        "WinGet",
+        "Microsoft Power Automate",
+        "Zapier"
+      ]
+    },
+    {
+      "name": "Cybersecurity",
+      "level": "",
+      "keywords": [
+        "IBM QRadar",
+        "LogRhythm",
+        "Splunk",
+        "Microsoft Sentinel",
+        "Wireshark"
+      ]
+    },
+    {
+      "name": "General",
+      "level": "",
+      "keywords": [
+        "1Password",
+        "Bitwarden",
+        "Freshdesk",
+        "Microsoft 365",
+        "Parallels",
+        "Trello",
+        "Visual Studio Code",
+        "VMware"
+      ]
+    },
+    {
+      "name": "Operating Systems",
+      "level": "",
+      "keywords": [
+        "Arch Linux",
+        "Debian",
+        "Ubuntu",
+        "macOS",
+        "Windows"
+      ]
+    },
+    {
+      "name": "Version Control",
+      "level": "",
+      "keywords": [
+        "Git",
+        "GitHub",
+        "GitLab"
+      ]
+    },
+    {
+      "name": "Web Development",
+      "level": "",
+      "keywords": [
+        "Bootstrap",
+        "CSS",
+        "HTML",
+        "Jekyll",
+        "SASS",
+        "wiki.js",
+        "WordPress"
+      ]
+    },
+    {
+      "name": "Other",
+      "level": "",
+      "keywords": [
+        "ArcGIS Server",
+        "Cloudflare",
+        "DigitalOcean",
+        "GLDS BroadHub",
+        "GLDS SuperController"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Swedish",
+      "fluency": "Elementary proficiency"
+    },
+    {
+      "language": "English",
+      "fluency": "Native or bilingual proficiency"
+    }
+  ],
+  "interests": [
+  ],
+  "projects": [
+  ],
+  "references": [
+    {
+      "name": "Ian Zanie",
+      "url": "https://www.linkedin.com/in/anthonyvadala/",
+      "reference": "Anthony is an energetic, self-motivated IT Professional. Extraordinarily diverse skill-set. Constantly up-skilling."
+    }
+  ]
+}
